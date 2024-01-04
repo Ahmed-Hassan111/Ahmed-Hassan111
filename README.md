@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Hassan
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on Projects with .Net 
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/ahmed-hassan-b105a31b1/ or Gmail: ahmedhassansaad7@gmail.com
