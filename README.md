@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/ahmed-hassan-b105a31b1/ or Gmail: ahmedhassansaad7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/ahmed-hassan-b105a31b1 </h3>
 <p align="left">
 </p>
 
