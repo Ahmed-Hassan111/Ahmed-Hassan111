@@ -9,34 +9,35 @@
 
 - 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/ahmed-hassan-b105a31b1/ or Gmail: ahmedhassansaad7@gmail.com**
 
-### 🛠️ Languages and Tools:
-
-#### 🟢 Data Engineering & Big Data
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pyspark/pyspark-icon.svg" alt="pyspark" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache-airflow/apache-airflow-icon.svg" alt="airflow" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-#### 🔵 Databases & Business Intelligence (MS Stack)
-<p align="left">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/> &nbsp;
-  <img src="https://img.shields.io/badge/SSIS-SQL_Server_Integration-blue?style=flat&logo=microsoft" alt="ssis" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/SSAS-Analysis_Services-orange?style=flat&logo=microsoft" alt="ssas" height="35"/>
-</p>
-
-#### 🟡 Software Engineering (Background)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
+### 🛠️ Languages and Tools
+<table>
+  <tr>
+    <td align="center"><b>Data Engineering & Big Data</b></td>
+    <td align="center"><b>Databases & BI (Microsoft Stack)</b></td>
+    <td align="center"><b>Development & DevOps</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> Python <br><br>
+      <img src="https://www.vectorlogo.zone/logos/pyspark/pyspark-icon.svg" width="30"> PySpark <br><br>
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="30"> Hadoop <br><br>
+      <img src="https://www.vectorlogo.zone/logos/apache-airflow/apache-airflow-icon.svg" width="30"> Airflow <br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"> Linux
+    </td>
+    <td valign="top">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30"> MS SQL Server <br><br>
+      <img src="https://img.shields.io/badge/SSIS-Integration-blue?style=flat&logo=microsoft" height="20"> <br><br>
+      <img src="https://img.shields.io/badge/SSAS-Analysis-orange?style=flat&logo=microsoft" height="20"> <br><br>
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="30"> Power BI <br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"> PostgreSQL
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"> C# <br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30"> .NET <br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"> Docker <br><br>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"> Git <br><br>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30"> Azure
+    </td>
+  </tr>
+</table>
 
