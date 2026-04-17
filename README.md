@@ -30,7 +30,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"> MySQL <br><br>
       <img src="https://img.shields.io/badge/SSIS-Integration-blue?style=flat&logo=microsoft" height="18"> <br><br>
       <img src="https://img.shields.io/badge/SSAS-Analysis-orange?style=flat&logo=microsoft" height="18"> <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="25"> Power BI <br><br>
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="30"> Power BI <br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"> PostgreSQL
     </td>
     <td valign="top">
